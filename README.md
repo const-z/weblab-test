@@ -8,6 +8,12 @@ The template contains the basic features including user login/logout and a conta
 It includes all commonly used configurations that would allow you to focus on adding new
 features to your application.
 
+
+EXAMPLE
+-------
+
+![Alt text](/screen.gif?raw=true "Optional Title")
+
 DIRECTORY STRUCTURE
 -------------------
 
